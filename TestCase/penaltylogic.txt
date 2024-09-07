@@ -1,0 +1,3 @@
+egg AND burger, 4
+chicken OR chips, 10
+bacon AND turkey, 15

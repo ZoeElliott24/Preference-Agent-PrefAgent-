@@ -1,0 +1,8 @@
+Breakfast: egg, bacon
+Lunch: salad, burger
+Dinner: chicken, turkey
+Healthy Snack: raisin, celery
+Beverage: water, soda
+Fast-Food: pizza, fries
+Sweet: oreo, cookie
+Salty: popcorn, chips

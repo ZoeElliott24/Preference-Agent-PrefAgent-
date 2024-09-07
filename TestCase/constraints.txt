@@ -1,0 +1,6 @@
+NOT chicken OR egg
+salad OR bacon
+NOT celery
+NOT salad
+popcorn OR raisin
+oreo OR pizza OR water
